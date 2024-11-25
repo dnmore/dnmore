@@ -33,9 +33,10 @@ I'm a **full-stack developer**  with a love for blending **creativity** and **pr
 
 ### ✨ Projects
 Here are a few of my recent projects:
-- **CraveWaves**: A restaurant application where users can browse menus, manage their cart, and enjoy smooth transitions and animations.
-- **Taskie**: A gamified task management app with an engaging, neo-brutalist design that rewards users for staying organized.
-- **MyDish**: A recipe web app allowing users to explore recipes by category, area or ingredient, built with React and optimized for a mobile experience.
+- [**Sarcastic Shopping**](https://github.com/dnmore/sarcastic-shopping) A humorous eCommerce application selling hilariously pointless items, featuring secure authentication, sarcastic interactions, and Stripe-powered checkout.
+- [**CraveWaves**](https://github.com/dnmore/crave-waves) A restaurant application where users can browse menus, manage their cart, and enjoy smooth transitions and animations.
+- [**Taskie**](https://github.com/dnmore/taskie) A gamified task management app with an engaging, neo-brutalist design that rewards users for staying organized.
+- [**MyDish**](https://github.com/dnmore/my-dish) A recipe web app allowing users to explore recipes by category, area or ingredient, built with React and optimized for a mobile experience.
 
 ### 📫 Let’s connect
 - [LinkedIn](https://www.linkedin.com/in/dianamoretti/)
