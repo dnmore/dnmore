@@ -31,13 +31,6 @@ I'm a **full-stack developer**  with a love for blending **creativity** and **pr
 ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?logo=webflow&logoColor=white&style=flat)
 
 
-### ✨ Projects
-Here are a few of my recent projects:
-- [**Sarcastic Shopping**](https://github.com/dnmore/sarcastic-shopping) A humorous eCommerce application selling hilariously pointless items, featuring secure authentication, sarcastic interactions, and Stripe-powered checkout.
-- [**CraveWaves**](https://github.com/dnmore/crave-waves) A restaurant application where users can browse menus, manage their cart, and enjoy smooth transitions and animations.
-- [**Taskie**](https://github.com/dnmore/taskie) A gamified task management app with an engaging, neo-brutalist design that rewards users for staying organized.
-- [**MyDish**](https://github.com/dnmore/my-dish) A recipe web app allowing users to explore recipes by category, area or ingredient, built with React and optimized for a mobile experience.
-
 ### 📫 Let’s connect
 - [LinkedIn](https://www.linkedin.com/in/dianamoretti/)
 - [Codepen](https://codepen.io/Diana-Moretti)
@@ -45,17 +38,4 @@ Here are a few of my recent projects:
 
 Thanks for stopping by, and let’s build something great together! 🚀
 
-<!--
-**dnmore/dnmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
