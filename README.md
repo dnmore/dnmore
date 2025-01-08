@@ -3,7 +3,7 @@
 I'm a **full-stack developer**  with a love for blending **creativity** and **problem-solving** to build applications that are as engaging as they are impactful. 
 
 - 🎯 I’m passionate about using technology to help people and create positive experiences through every project I take on. 
-- 🔭 Currently, I'm working on full-stack projects integrating **React** and **Flask**.
+- 🔭 Currently, I'm working on full-stack projects integrating **React** and **Python**.
 
 ### 🛠️ Languages & Tools
 
