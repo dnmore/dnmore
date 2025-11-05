@@ -52,12 +52,7 @@ I'm a web developer (React/Next.js) with a background in GDPR Compliance ops & H
   <img src="https://img.shields.io/badge/-MealDB_API-FF8800?logo=api&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=flat" />
 
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=9f01fc&text=Let’s%20Connect&fontColor=ffffff&animation=fadeIn&section=footer&fontSize=40)
-
-
+### 📫 Let’s connect
   <a href="https://www.linkedin.com/in/dianamoretti/">
   <img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-256.png"/>
 </a>
@@ -65,7 +60,11 @@ I'm a web developer (React/Next.js) with a background in GDPR Compliance ops & H
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Codepen-256.png"/>
 </a>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=9f01fc&fontColor=ffffff&animation=fadeIn&section=footer&fontSize=40)
+
 </div>
+
+
 
 
 
