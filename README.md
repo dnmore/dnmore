@@ -1,6 +1,6 @@
 # Hi I'm Diana 👋 
 
-Full-Stack Developer with background in GDPR and Customer Ops specializing in SaaS MVPs, internal tools, dashboards and subscription platforms.
+Full-Stack Developer with background in Privacy (GDPR) and Customer Operations specializing in SaaS MVPs, CRM & Analytics Dashboards.
 
 ## Projects
 
